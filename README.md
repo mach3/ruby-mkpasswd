@@ -13,12 +13,12 @@ through creating password generator.
 
 ### Example with option
 
-mp = MkPasswd.new
-puts mp.generate({
-	"length" => 32, # Length of password
-	"useNumeric" => true, # use numeric character or not
-	"useSymbol" => true, # 
-})
+	mp = MkPasswd.new
+	puts mp.generate({
+		"length" => 32, # Length of password
+		"useNumeric" => true, # use numeric character or not
+		"useSymbol" => true, # 
+	})
 
 See "demo.rb"
 
