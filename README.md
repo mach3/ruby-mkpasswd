@@ -1,8 +1,12 @@
 # MkPasswd
 
+version 1.0
+
 This is the first Ruby script I've written.  
 I tried to use class definition of ruby,  
 through creating password generator.
+
+
 
 ## Usage
 	
